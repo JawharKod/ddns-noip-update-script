@@ -26,7 +26,7 @@ The motivation for creating this script was to enable remote monitoring of a 3D 
 ## Setting Up a Scheduler
 ### On Raspberry Pi (Linux)
 1. Open crontab: `crontab -e`
-2. Add a line: `*/30 * * * * python /path/to/noipupdate.py` to run it every 30 minutes.
+2. Add a line: `*/30 * * * * python /path/to/noip_update.py` to run it every 30 minutes.
 
 ### On Windows
 1. Use the Task Scheduler to run the script at startup and every 30 minutes.
