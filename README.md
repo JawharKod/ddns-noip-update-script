@@ -20,7 +20,7 @@ The motivation for creating this script was to enable remote monitoring of a 3D 
 
 ## Usage
 1. Clone the repository or download the script.
-2. Open the script in a text editor and replace `your_noip_username`, `your_noip_password`, `your_noip_hostname.bounceme.net`, and `YourClientName` with your actual No-IP account details and desired user agent information.
+2. Open the script in a text editor and replace `YOUR_NOIP_EMAIL`, `YOUR_NOIP_PASSWORD`, `YOUR_NOIP_HOSTNAME`, and `YOUR_AGENT_NAME` with your actual No-IP account details and desired user agent information.
 3. Run the script manually or set it up to run periodically using a scheduler (like cron jobs on Linux or Task Scheduler on Windows).
 
 ## Setting Up a Scheduler
